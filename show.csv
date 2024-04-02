@@ -1,0 +1,9 @@
+﻿smiles,Label,rationale,rationale_score,right
+O=C1C(O)=C(C)N(C)C=C1,0.919199705,Cn1ccc(=O)c(O)[cH:1]1,0.926914334,TRUE
+O=C(N(c1ccccc1)C1CCN(CCc2ccccc2)CC1)CC,0.889472663,c1ccc([NH:1][CH2:1][CH3:1])cc1,0.607274294,TRUE
+Clc1cc2nccc(Nc3cc(CN(CC)CC)c(O)cc3)c2cc1,0.884436429,Oc1ccc([NH2:1])cc1[CH3:1],0.929011226,TRUE
+Brc1ccc(-c2ccc([C@@H]3C[C@@H](C=4C(=O)Oc5c(C=4O)cccc5)c4c(cccc4)C3)cc2)cc1,0.841179252,O=c1o[cH:1][cH:1]c(O)c1[CH3:1],0.871904969,TRUE
+Clc1c(Nc2c(C(=O)[O-])cccc2)c(Cl)ccc1C,0.872796893,Cc1cc[cH:1]c(N[CH3:1])[cH:1]1,0.919499099,TRUE
+Clc1c(Nc2c(CC(=O)[O-])cccc2)c(Cl)ccc1,0.873779476,c1ccc([CH3:1])c(N[CH3:1])c1,0.930934727,TRUE
+C[n+]1ccc(-c2cc[n+](C)cc2)cc1,0.949631214,C1=C[N+:1]=CC=C1C1=CC=[N+:1]C=C1,0.815079689,TRUE
+Clc1ccc(C(=O)NCCc2ccc(OC(C(=O)O)(C)C)cc2)cc1,0.866757929,C[CH2:1]Oc1cc[cH:1]cc1,0.941504121,TRUE

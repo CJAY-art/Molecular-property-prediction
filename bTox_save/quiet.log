@@ -1,0 +1,3 @@
+Model 0 best validation auc = 0.734375 on epoch 21
+Model 0 test auc = 0.842417
+Ensemble test auc = 0.842417
